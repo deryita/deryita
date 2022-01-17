@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deryita
+- 👋 Hi, I’m Derya
 - 👀 I’m interested in quality assurance
 - 🌱 I’m currently learning how to live
 - 💞️ I’m looking to collaborate on living the best life as we could
